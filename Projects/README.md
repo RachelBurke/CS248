@@ -51,25 +51,25 @@ The director of Camp Posanivee is frustrated. Campers are enrolling and withdraw
 Your program will use a binary search tree to maintain the set of campers enrolled in Camp Posanivee. Your program should not be case-sensitive. </br>
 Your program will consist of a loop to process commands. The commands should come from a text file (say, "camp.txt"). The program quits when the command 'Q' is given. Below is a list of commands your program should support:</br>
 
-|-----------------------|--------------------------------------------------|
-|   H      Help:        |   print a list of commands                       |
-|-----------------------|--------------------------------------------------|
-|   E      name age sex |   Enroll a new camper (insert)                   |
-|-----------------------|--------------------------------------------------|
-|   W      name	        |   Withdraw a camper (delete)                     |
-|-----------------------|--------------------------------------------------|
-|   D      name	        |   Display the age and gender of a camper         |
-|-----------------------|--------------------------------------------------|
-|   A	                  |   Print the average age of the campers           |
-|-----------------------|--------------------------------------------------|
-|   L	                  |   List all campers names in alphabetical order   |
-|-----------------------|--------------------------------------------------|
-|   S	                  |   Print the number of boy and girl campers       |
-|-----------------------|--------------------------------------------------|
-|   P	                  |   List all campers names in preorder             |
-|-----------------------|--------------------------------------------------|
-|   Q	                  |   Quit                                           |
-|-----------------------|--------------------------------------------------|
+|-----------------------|--------------------------------------------------|</br>
+|   H      Help:        |   print a list of commands                       |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   E      name age sex |   Enroll a new camper (insert)                   |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   W      name	        |   Withdraw a camper (delete)                     |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   D      name	        |   Display the age and gender of a camper         |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   A	                  |   Print the average age of the campers           |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   L	                  |   List all campers names in alphabetical order   |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   S	                  |   Print the number of boy and girl campers       |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   P	                  |   List all campers names in preorder             |</br>
+|-----------------------|--------------------------------------------------|</br>
+|   Q	                  |   Quit                                           |</br>
+|-----------------------|--------------------------------------------------|</br>
 
 Here name is a string of at most 20 non-blank characters, age is an integer, and sex is either M or F. You may assume command arguments are separated by one or more spaces.
 Be sure to echo the input, especially for commands that give no output (like E or W), and handle special cases in a clean way (for example, computing the average age of an empty tree should not crash your program).
@@ -84,4 +84,6 @@ Please also note that, to receive full credit on this assignment, it is not nece
 
 ### Game Description
 This game is similar to Tic-Tac-Toe. The players, X and O, take turns making moves, and the first to place three of their symbols in a row wins. If neither wins and all places are filled, the game is a draw.</br>
-The difference between standard Tic-Tac-Toe and Jerry-Tac-Toe is that the board is different. ![alt text](https://github.com/RachelBurke/CS248/blob/master/Projects/jtt.gif) Here you can get three in a row using 1-2-3, 1-5-9, 1-4-8, 2-4-7, and so forth. 2-5-8 is not a winning combination (there is no line), and neither is 2-4-8 (the line is not straight).</br>
+The difference between standard Tic-Tac-Toe and Jerry-Tac-Toe is that the board is different.</br>
+![alt text](https://github.com/RachelBurke/CS248/blob/master/Projects/jtt.gif)</br>
+Here you can get three in a row using 1-2-3, 1-5-9, 1-4-8, 2-4-7, and so forth. 2-5-8 is not a winning combination (there is no line), and neither is 2-4-8 (the line is not straight).</br>
