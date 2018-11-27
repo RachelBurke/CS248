@@ -51,11 +51,12 @@ The director of Camp Posanivee is frustrated. Campers are enrolling and withdraw
 Your program will use a binary search tree to maintain the set of campers enrolled in Camp Posanivee. Your program should not be case-sensitive. </br>
 Your program will consist of a loop to process commands. The commands should come from a text file (say, "camp.txt"). The program quits when the command 'Q' is given. Below is a list of commands your program should support:</br>
 
-| H Help: | print a list o f commands |
+| Command Line Input | Action Performed |
 | --- | --- |
-| E name age sex | Enroll a new camper (insert) |
-|   W      name	        |   Withdraw a camper (delete)                     |
-|   D      name	        |   Display the age and gender of a camper         |
+| H ( or Help) | print a list o f commands |
+| E <name> <age> <sex> | Enroll a new camper (insert) |
+|   W      <name>	        |   Withdraw a camper (delete)                     |
+|   D      <name>	        |   Display the age and gender of a camper         |
 |   A	                  |   Print the average age of the campers           |
 |   L	                  |   List all campers names in alphabetical order   |
 |   S	                  |   Print the number of boy and girl campers       |
