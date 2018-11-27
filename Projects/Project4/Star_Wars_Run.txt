@@ -1,0 +1,80 @@
+run:
+Welcome to the Star Wars Mash-Up!
+Thank you for agreeing to fight against the evil Jabba the Hutt.
+The galaxy has had enough of him and has decided it is time for Jabba to go.
+Your job is to search the galaxy for Jabba, but BEWARE of the obstacles in your path:
+The Death Star has been planning to destroy one of the planets.
+There are stormtroopers patrolling one of the planets.
+You have been banned from one of the planets in the galaxy and the technology in your
+spacecraft will transport you do a different planet if you try to enter the area.
+Your blaster is not up to the times and can only hold 3 shots.
+To refill you must travel to your base planet.
+The technology in your spacecraft only detects the three closest planets.
+Sucks to have so many things against you, but maybe you can still kill Jabba.
+Good Luck!
+
+
+You are on planet 1.
+You have 3 shots left.
+You wanted to take a look around Tatooine because Jabba's palace is here.
+You can travel to the planets 2, 6, and 10.
+You saw some enemy spacecraft in the area on your way to planet 1.
+(M)ove or (S)hoot?
+M
+Which planet?
+2
+
+You are on planet 2.
+You have 3 shots left.
+You traveled to Alderaan.
+You can travel to the planets 1, 3, and 7.
+You hear footsteps nearby.
+(M)ove or (S)hoot?
+M
+Which planet?
+3
+
+You are on planet 3.
+You have 3 shots left.
+You landed on the rocky desert planet of Geonosis.
+You can travel to the planets 2, 4, and 8.
+(M)ove or (S)hoot?
+M
+Which planet?
+8
+Oh no! You tried to travel to the planet you're banned from!
+You are now travelling to planet 3.
+
+You are on planet 3.
+You have 3 shots left.
+You landed on the rocky desert planet of Geonosis.
+You can travel to the planets 2, 4, and 8.
+(M)ove or (S)hoot?
+M
+Which planet?
+4
+You went to base to get your blaster refilled. You now have 3 shots.
+
+You are on planet 4.
+You have 3 shots left.
+Naboo is your next stop, maybe Jar-Jar Binks knows about Jabba's whereabouts.
+You can travel to the planets 3, 5, and 9.
+You smell something nasty.  Jabba must be near here! 
+(M)ove or (S)hoot?
+S
+Which planet?
+5
+Your shot missed.
+
+You are on planet 4.
+You have 2 shots left.
+Naboo is your next stop, maybe Jar-Jar Binks knows about Jabba's whereabouts.
+You can travel to the planets 3, 5, and 9.
+You smell something nasty.  Jabba must be near here! 
+(M)ove or (S)hoot?
+M
+Which planet?
+9
+Oh no! You walked into Jabba's lair and he sent you into the Great Pit of Carkoon.
+and were killed by the sarlacc.
+BUILD SUCCESSFUL (total time: 17 minutes 38 seconds)

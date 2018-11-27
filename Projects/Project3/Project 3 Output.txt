@@ -1,0 +1,22 @@
+login as: rburke
+rburke@thomas's password:
+Last login: Wed Feb  1 11:37:11 2017 from 10.2.4.118
+_______________________________________________________________________________
+
+    Butler University node THOMAS
+
+    Please contact the IT Computer Help Desk if you need assistance at
+    https://itrequest.butler.edu/
+_______________________________________________________________________________
+
+
+thomas% cd cs248
+thomas% cd Project3
+thomas% javac MyDate.java
+thomas% javac DateInterface.java
+thomas% javac Year3000.java
+thomas% java Year3000
+Wednesday, January 1, 3000
+Wednesday, January 1, 1800
+Tuesday, December 31, 1799
+thomas%
