@@ -1,4 +1,4 @@
-# CS248 - Object-Oriented Programming and Data Structures - Java
+# CS248 - Object-Oriented Programming & Data Structures - Java
 **Professor: Dr. Jon Sorenson** </br>
 **Jan - May 2017**
 
