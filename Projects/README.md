@@ -51,34 +51,16 @@ The director of Camp Posanivee is frustrated. Campers are enrolling and withdraw
 Your program will use a binary search tree to maintain the set of campers enrolled in Camp Posanivee. Your program should not be case-sensitive. </br>
 Your program will consist of a loop to process commands. The commands should come from a text file (say, "camp.txt"). The program quits when the command 'Q' is given. Below is a list of commands your program should support:</br>
 
-|-----------------------|--------------------------------------------------|</br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-H
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Help:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;print a list of commands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>
-|-----------------------|--------------------------------------------------|</br>
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-E
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-name age sex
-&nbsp;&nbsp;
-|&nbsp;&nbsp;&nbsp;&nbsp;
-Enroll a new camper (insert)                   |</br>
-|-----------------------|--------------------------------------------------|</br>
+| H Help: | print a list o f commands|</br>
+| --- | --- |</br>
+| E name age sex | Enroll a new camper (insert)|</br>
 |   W      name	        |   Withdraw a camper (delete)                     |</br>
-|-----------------------|--------------------------------------------------|</br>
 |   D      name	        |   Display the age and gender of a camper         |</br>
-|-----------------------|--------------------------------------------------|</br>
 |   A	                  |   Print the average age of the campers           |</br>
-|-----------------------|--------------------------------------------------|</br>
 |   L	                  |   List all campers names in alphabetical order   |</br>
-|-----------------------|--------------------------------------------------|</br>
 |   S	                  |   Print the number of boy and girl campers       |</br>
-|-----------------------|--------------------------------------------------|</br>
 |   P	                  |   List all campers names in preorder             |</br>
-|-----------------------|--------------------------------------------------|</br>
 |   Q	                  |   Quit                                           |</br>
-|-----------------------|--------------------------------------------------|</br>
 
 Here name is a string of at most 20 non-blank characters, age is an integer, and sex is either M or F. You may assume command arguments are separated by one or more spaces.
 Be sure to echo the input, especially for commands that give no output (like E or W), and handle special cases in a clean way (for example, computing the average age of an empty tree should not crash your program).
