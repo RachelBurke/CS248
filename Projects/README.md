@@ -1,5 +1,7 @@
 # Projects
 
+This folder contains all project files. Below are the project descriptions given by the professor.
+
 ## Project 1 - The Guessing Game
 For this assignment, you are to write a program that plays the Guessing Game. Your program should first pick a random number between 1 and 100. Then the user guesses the number. Your program should say whether the guess is too high, too low, or correct. If the guess was correct, the program stops. Otherwise, the user gets to guess again.</br>
 Your program must include at least one function/method to receive full credit.
@@ -37,7 +39,7 @@ When the events in the file have been processed, compute and print the average w
 ## Project 6 - Sorting Out Sorts
 As a new and eager employee of BUSTInc (Butler University Software Technology Incorporated) you've been asked by your employer to implement a sorting algorithm for inclusion in a package for a lucrative client. However, your boss just wants you to implement one of the simple, quadratic sorting algorithms. To prove that this would be a big mistake, you've decided (on your own) to prove to your idiot boss that it's worth the extra effort to implement one of the O(n log n) sorting algorithms. For this project, you will implement and compare five sorting algorithms: bubble sort, insertion sort, selection sort, quicksort, and either mergesort or shellsort. Your main program will then do the following:
 
- 1. Ask the user for the size n of the list he/she wants to sort.
+1. Ask the user for the size n of the list he/she wants to sort.
 1. Create an array of size n and fill it with random integers between 1 and n. 
 (Use the built-in Integer class, which implements the Comparable interface, to do this.) 
 1. If n<=100, display the random array on the screen.
