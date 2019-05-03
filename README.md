@@ -30,11 +30,11 @@ This course is an introduction to object-oriented programming using Java. Topics
 1. GUIs and Game Programming
 
 ## Course Projects
-1. Guessing Game (Introduction to Java)
-1. Exam Statistics Program (Java Basics - Functions & File Reading)
-1. Dating Game (Classes)
-1. Hunt the Wumpus (Objects)
-1. La Food (Recursion, Stacks and Queues)
-1. Sorting Sorts (Recursion and Sorting)
-1. Camp Posanivee (Trees, Priority Queues, and Heaps)
-1. Jerry-Tac-Toe (GUIs and Game Programming)
+1. [Guessing Game](https://github.com/RachelBurke/CS248/tree/master/Projects/Project1) (Introduction to Java) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projgg)
+1. [Exam Statistics Program](https://github.com/RachelBurke/CS248/tree/master/Projects/Project2) (Functions & File Reading) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projesp)
+1. [Dating Game](https://github.com/RachelBurke/CS248/tree/master/Projects/Project3) (Classes) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projdate)
+1. [Hunt the Wumpus](https://github.com/RachelBurke/CS248/tree/master/Projects/Project4) (Objects) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projwump)
+1. [La Food](https://github.com/RachelBurke/CS248/tree/master/Projects/Project5) (Recursion, Stacks and Queues) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projfood)
+1. [Sorting Sorts](https://github.com/RachelBurke/CS248/tree/master/Projects/Project6) (Recursion and Sorting) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projsorts)
+1. [Camp Posanivee](https://github.com/RachelBurke/CS248/tree/master/Projects/Project7) (Trees, Priority Queues, and Heaps) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projcamp)
+1. Jerry-Tac-Toe (GUIs and Game Programming) - [Project Description](https://blue.butler.edu/~jsorenso/oop/index.php?page=projjtt)
