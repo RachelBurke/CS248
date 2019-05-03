@@ -1,5 +1,5 @@
 # CS248 - OO Programming & Data Structures - Java
-**Professor: Dr. Jon Sorenson** </br>
+**Professor: Dr. Jonathan Sorenson** </br>
 **Jan - May 2017**
 
 This repository contains files from my CS248 course taken in the Spring of 2017 at Butler University. It contains course some notes (in-class programs with comments) and projects completed during the course.
